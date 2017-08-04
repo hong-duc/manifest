@@ -1,0 +1,6 @@
+repos:
+  - src: foo
+    url: https://github.com/hong-duc/generator-quanly.git
+
+  - src: bar
+    url: https://github.com/hong-duc/javascript-graphql-example.git
